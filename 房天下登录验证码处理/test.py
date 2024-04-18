@@ -1,6 +1,6 @@
 
 import ddddocr
-
+1
 det = ddddocr.DdddOcr(det=False, ocr=False, show_ad=False)
 
 with open('images/bg.jpg', 'rb') as f:
